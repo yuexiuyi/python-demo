@@ -1,0 +1,1 @@
+print('\tPython\n\tJava')
